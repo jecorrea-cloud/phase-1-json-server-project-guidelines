@@ -2,18 +2,19 @@
   "pizza_orders": [
     {
       "id": 1,
-      "timestamp": "Mon May 10 2021 13:00:00",
-      "first_name": "John",
-      "last_name": "Cameron",
-      "payment_info": "2300000000000000",
-      "delivery_address": "123 main street",
-      "crust": "Hand tossed crunch",
-      "sauce": "ranch",
-      "first_topping": "Cheese",
+      "pizza_name": "Meatlovers",
+      "timestamp": "",
+      "first_name": "",
+      "last_name": "",
+      "payment_info": "",
+      "delivery_address": "",
+      "crust": "hand tossed",
+      "sauce": "original",
+      "first_topping": "sausage",
       "second_topping": "Pepperoni",
-      "third_topping": "",
+      "third_topping": "bacon",
       "beverage": "Pepsi",
-      "extra_cheese": true
+      "extra_cheese": false
     },
     {
       "id": 2,
