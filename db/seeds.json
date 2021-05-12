@@ -2,7 +2,6 @@
   "pizza_orders": [
     {
       "id": 1,
-      "pizza_name": "Meatlovers",
       "timestamp": "",
       "first_name": "",
       "last_name": "",
