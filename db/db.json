@@ -39,7 +39,7 @@
       "last_name": "",
       "payment_info": "",
       "delivery_address": "",
-      "pizza_name": "Chicaken Alfredo",
+      "pizza_name": "Chicken Alfredo",
       "crust": "Hand Tossed",
       "sauce": "Alfredo Sauce",
       "first_topping": "Chicken",
@@ -65,22 +65,5 @@
       "extra_cheese": false
     }
   ],
-  "pizzas": [
-    {
-      "timestamp": "Thu, 13 May 2021 17:00:01 GMT",
-      "first_name": "Dan",
-      "last_name": "Beasley",
-      "payment_info": "55555",
-      "delivery_address": "2878",
-      "pizza_name": "Meatlovers",
-      "crust": "Pan",
-      "sauce": "Traditional",
-      "first_topping": "Pepperoni",
-      "second_topping": "Suasage",
-      "third_topping": "Bacon",
-      "beverage": "Mountain Dew",
-      "extra_cheese": "true",
-      "id": 1
-    }
-  ]
+  "pizzas": []
 }
